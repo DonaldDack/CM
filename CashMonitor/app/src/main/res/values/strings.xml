@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CashMonitor</string>
+
+    <!-- menu -->
+    <string name="text_main_menu_1">главное</string>
+    <string name="text_main_menu_2">меню</string>
+    <string name="text_notes">Заметки</string>
+    <string name="text_history_bought_1">история</string>
+    <string name="text_history_bought_2">покупок</string>
+    <string name="text_graph">график</string>
+    <string name="text_setting">настройки</string>
+    <string name="text_calendar">календарь</string>
+    <string name="text_about_programm">о программе</string>
+    <string name="title_activity_user">UserActivity</string>
+
+    <!-- notes_fragment -->
+    <string name="name_bought">наименование</string>
+    <string name="mera">шт</string>
+    <string name="cost">цена</string>
+    <string name="text_count_bought">кол-во</string>
+    <string name="text_price">всего</string>
+    <string name="text_all_price">Всего: </string>
+    <string name="text_delete">удалить</string>
+    <string name="text_add_button_in_notes">добавить</string>
+    <string name="text_bought_progress_ok">куплено</string>
+    <string name="text_bought_progress_no">не куплено</string>
+    <string name="text_add_button">в список</string>
+    <string name="text_add_button_in_history">в историю</string>
+    <string name="text_no_add_button">не сегодня</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_content_fill">"Fill "</string>
+
+    <!-- fill Bought fragment -->
+    <string name="enter_name">наименование</string>
+    <string name="enter_count">количество</string>
+    <string name="enter_type_count">единицы измерения кг, л, шт</string>
+    <string name="enter_price">стоимость</string>
+
+
+</resources>
